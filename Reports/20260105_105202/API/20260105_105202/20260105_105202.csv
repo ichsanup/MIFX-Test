@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+API,,,,2026-01-05 10:52:04,2026-01-05 10:52:07,3.301s,FAILED
+,,,,,,,
+Test Cases/API/API_REQRES_LIST_USERS,,,,2026-01-05 10:52:04,2026-01-05 10:52:06,1.867s,PASSED
+"response = sendRequest(findTestObject(""Object Repository/API/API_REQRES_LIST_USERS""))",,,,2026-01-05 10:52:04,2026-01-05 10:52:06,1.748s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2026-01-05 10:52:06,2026-01-05 10:52:06,0.010s,PASSED
+,,,,,,,
+Test Cases/API/API_REQRES_PAGE2,,,,2026-01-05 10:52:06,2026-01-05 10:52:07,0.873s,FAILED
+"response = sendRequest(findTestObject(""Object Repository/API/API_REQRES_PAGE2""))",,,,2026-01-05 10:52:06,2026-01-05 10:52:07,0.799s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2026-01-05 10:52:07,2026-01-05 10:52:07,0.024s,FAILED
+,,,,,,,
+Test Cases/API/API_REQRES_USERS2,,,,2026-01-05 10:52:07,2026-01-05 10:52:07,0.328s,PASSED
+"response = sendRequest(findTestObject(""Object Repository/API/API_REQRES_USERS2""))",,,,2026-01-05 10:52:07,2026-01-05 10:52:07,0.272s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,2026-01-05 10:52:07,2026-01-05 10:52:07,0.000s,PASSED

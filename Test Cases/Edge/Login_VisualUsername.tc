@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_VisualUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe4fae7c-874e-4b8c-9a61-fc4ac6acf8c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5098f7f2-691c-4375-bdca-d85e799d246e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a66b4305-6c8f-4221-a841-c9b0aeeecd81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'visual_user'</defaultValue>
+      <description></description>
+      <id>5098f7f2-691c-4375-bdca-d85e799d246e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>a66b4305-6c8f-4221-a841-c9b0aeeecd81</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
