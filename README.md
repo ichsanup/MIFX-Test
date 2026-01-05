@@ -1,4 +1,4 @@
-# MFIX-Test
+# MIFX-Test
 Submission Test MIFX 
 
 Step-by-Step Guide for Using This Repository
