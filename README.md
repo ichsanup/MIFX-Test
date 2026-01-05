@@ -8,8 +8,8 @@ Step-by-Step Guide for Using This Repository
 - Done.
 
 - Answer of Question 1,2,5 : https://docs.google.com/document/d/1hk97c7peG3HZHLJILJHFBWkAemZ0Glgw8XfBcTCsi6U/edit?usp=sharing
-- Answer of Question 4 : https://docs.google.com/spreadsheets/d/1eRJ5xAhHL4Yd-QTyeodaesNYkryl4IL0prQCEflJ-zQ/edit?usp=sharing
-- Answer of Question 3,6 : This repository is used for API automation, and data is generated from APIs and saved into CSV format
+- Answer of Question 4 Manual : https://docs.google.com/spreadsheets/d/1eRJ5xAhHL4Yd-QTyeodaesNYkryl4IL0prQCEflJ-zQ/edit?usp=sharing
+- Answer of Question 3,4,6 : This repository is used for API and UI automation , and data is generated from APIs and saved into CSV format
 - Manual API : https://www.postman.com/ichsan18/workspace/test-mfix-reqres/collection/16301864-6848247c-b759-4f38-98e9-5f2f0a228732?
 
 You can run manual api in browser, just click the link and you can running the API or maybe if you want to dowload the Json file (https://drive.google.com/file/d/19pmNnyX820h0HwXqNr0Jvbw0kAm_Tw-3/view?usp=sharing)
