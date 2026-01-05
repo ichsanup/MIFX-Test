@@ -15,4 +15,5 @@ Step-by-Step Guide for Using This Repository
 You can run manual api in browser, just click the link and you can running the API or maybe if you want to dowload the Json file (https://drive.google.com/file/d/19pmNnyX820h0HwXqNr0Jvbw0kAm_Tw-3/view?usp=sharing)
 
 Link Video Automation : https://drive.google.com/file/d/1hxEEUUPlVO_Cs2jBEvNO8CPj_DI4Q3q3/view?usp=sharing
+
 I did not fully record the automation progress due to the video file size limitation. However, you can review and run the program by pulling this repository
